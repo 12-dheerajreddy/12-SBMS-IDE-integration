@@ -11,6 +11,9 @@ public class Application {
 		ConfigurableApplicationContext run = SpringApplication.run(Application.class, args);
 		System.out.println("Thankyou !!");
 		System.out.println("My work is done");
+int i=10;
+
+
 	}
 
 }
